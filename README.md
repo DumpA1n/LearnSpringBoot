@@ -1,2 +1,2 @@
 # LearnSpringBoot
-java $ spring boot & redis & mysql & vue?
+java & spring boot & redis & mysql & vue?
